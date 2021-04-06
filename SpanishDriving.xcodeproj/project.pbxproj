@@ -195,7 +195,6 @@
 		96120769261C8D1500AE04B4 /* OSlide8View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9612069C261C8D1500AE04B4 /* OSlide8View.swift */; };
 		9612076A261C8D1500AE04B4 /* OProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9612069E261C8D1500AE04B4 /* OProgressView.swift */; };
 		9612076B261C8D1500AE04B4 /* OSlide15Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9612069F261C8D1500AE04B4 /* OSlide15Cell.swift */; };
-		9612076C261C8D1500AE04B4 /* Onboarding.Chart.json in Resources */ = {isa = PBXBuildFile; fileRef = 961206A1261C8D1500AE04B4 /* Onboarding.Chart.json */; };
 		9612076D261C8D1500AE04B4 /* ODatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961206A2261C8D1500AE04B4 /* ODatePicker.swift */; };
 		9612076E261C8D1500AE04B4 /* OSlide4Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961206A3261C8D1500AE04B4 /* OSlide4Cell.swift */; };
 		9612076F261C8D1500AE04B4 /* OSlide9TagView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961206A4261C8D1500AE04B4 /* OSlide9TagView.swift */; };
@@ -216,6 +215,7 @@
 		9612077E261C8D1500AE04B4 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961206B3261C8D1500AE04B4 /* OnboardingView.swift */; };
 		9612077F261C8D1500AE04B4 /* OnboardingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961206B4261C8D1500AE04B4 /* OnboardingViewModel.swift */; };
 		96120780261C8D1500AE04B4 /* OnboardingAnalytics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961206B6261C8D1500AE04B4 /* OnboardingAnalytics.swift */; };
+		961207A9261CB6C700AE04B4 /* Onboarding.Chart.json in Resources */ = {isa = PBXBuildFile; fileRef = 961207A8261CB6C700AE04B4 /* Onboarding.Chart.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -412,7 +412,6 @@
 		9612069C261C8D1500AE04B4 /* OSlide8View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide8View.swift; sourceTree = "<group>"; };
 		9612069E261C8D1500AE04B4 /* OProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OProgressView.swift; sourceTree = "<group>"; };
 		9612069F261C8D1500AE04B4 /* OSlide15Cell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide15Cell.swift; sourceTree = "<group>"; };
-		961206A1261C8D1500AE04B4 /* Onboarding.Chart.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Onboarding.Chart.json; sourceTree = "<group>"; };
 		961206A2261C8D1500AE04B4 /* ODatePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ODatePicker.swift; sourceTree = "<group>"; };
 		961206A3261C8D1500AE04B4 /* OSlide4Cell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide4Cell.swift; sourceTree = "<group>"; };
 		961206A4261C8D1500AE04B4 /* OSlide9TagView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OSlide9TagView.swift; sourceTree = "<group>"; };
@@ -433,6 +432,7 @@
 		961206B3261C8D1500AE04B4 /* OnboardingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		961206B4261C8D1500AE04B4 /* OnboardingViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingViewModel.swift; sourceTree = "<group>"; };
 		961206B6261C8D1500AE04B4 /* OnboardingAnalytics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingAnalytics.swift; sourceTree = "<group>"; };
+		961207A8261CB6C700AE04B4 /* Onboarding.Chart.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Onboarding.Chart.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1302,7 +1302,7 @@
 		961206A0261C8D1500AE04B4 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				961206A1261C8D1500AE04B4 /* Onboarding.Chart.json */,
+				961207A8261CB6C700AE04B4 /* Onboarding.Chart.json */,
 			);
 			path = Source;
 			sourceTree = "<group>";
@@ -1382,7 +1382,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9612076C261C8D1500AE04B4 /* Onboarding.Chart.json in Resources */,
+				961207A9261CB6C700AE04B4 /* Onboarding.Chart.json in Resources */,
 				96120582261C59C300AE04B4 /* Assets.xcassets in Resources */,
 				9612059D261C8C5A00AE04B4 /* SF-Pro-Rounded-Regular.otf in Resources */,
 				9612059C261C8C5A00AE04B4 /* SF-Pro-Rounded-Semibold.otf in Resources */,
@@ -1770,16 +1770,19 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2GY8CB289H;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = SC7MZ85J68;
 				INFOPLIST_FILE = "$(SRCROOT)/SpanishDriving/Resource/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = mLib.SpanishDriving;
+				MARKETING_VERSION = 1.0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = test.drivingspanish;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "SpanishDriving Development";
 				SWIFT_OBJC_BRIDGING_HEADER = "SpanishDriving/Resource/SpanishDriving-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -1792,16 +1795,19 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 2GY8CB289H;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = SC7MZ85J68;
 				INFOPLIST_FILE = "$(SRCROOT)/SpanishDriving/Resource/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = mLib.SpanishDriving;
+				MARKETING_VERSION = 1.0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = test.drivingspanish;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "SpanishDriving AppStore";
 				SWIFT_OBJC_BRIDGING_HEADER = "SpanishDriving/Resource/SpanishDriving-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;

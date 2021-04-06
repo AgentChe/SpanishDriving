@@ -68,8 +68,8 @@ private extension SCModeCell {
         ])
         
         NSLayoutConstraint.activate([
-            label.leadingAnchor.constraint(equalTo: container.leadingAnchor, constant: 8.scale),
-            label.trailingAnchor.constraint(equalTo: container.trailingAnchor, constant: -8.scale),
+            label.leadingAnchor.constraint(equalTo: container.leadingAnchor),
+            label.trailingAnchor.constraint(equalTo: container.trailingAnchor),
             label.topAnchor.constraint(equalTo: imageView.bottomAnchor, constant: 10.scale)
         ])
     }

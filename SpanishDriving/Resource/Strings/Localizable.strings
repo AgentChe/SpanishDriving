@@ -7,149 +7,149 @@
 */
 
 // MARK: General
-"Cancel" = "Cancel";
-"Continue" = "Continue";
+"Cancel" = "Cancelar";
+"Continue" = "Continuar";
 
 // MARK: ImagePicker
-"ImagePicker.TakePhoto" = "Take photo";
-"ImagePicker.CameraRoll" = "Camera roll";
-"ImagePicker.PhotoLibrary" = "Photo library";
+"ImagePicker.TakePhoto" = "Tomar una foto";
+"ImagePicker.CameraRoll" = "Rollo de cámara";
+"ImagePicker.PhotoLibrary" = "Biblioteca de fotos";
 
 // MARK: Course
-"Course.Tab.Stats" = "Stats";
-"Course.Tab.Study" = "Study";
+"Course.Tab.Stats" = "Estadisticas";
+"Course.Tab.Study" = "Estudio";
 
 // MARK: Splash
-"Splash.Title.Part1" = "Preferred by\n";
-"Splash.Title.Part2" = "20 THOUSAND\n";
-"Splash.Title.Part3" = "US students";
+"Splash.Title.Part1" = "Más de\n";
+"Splash.Title.Part2" = "60,000\n";
+"Splash.Title.Part3" = "preguntas de\nexamen reales";
 
 // MARK: Onboarding
 "Onboarding.Skip" = "Skip";
-"Onboarding.Proceed" = "Proceed";
-"Onboarding.Yes" = "Yes";
+"Onboarding.Proceed" = "Continuar";
+"Onboarding.Yes" = "Sí";
 "Onboarding.No" = "No";
-"Onboarding.Slide1.Text1" = "PERSONAL STUDY PLAN 98% PASS RATE";
-"Onboarding.Slide1.Text2" = "Practice exams created by certified nurses to help you pass on the first attempt";
-"Onboarding.Slide1.Button" = "Let’s do it";
-"Onboarding.Slide2.Title" = "WHAT IS YOUR GENDER?";
-"Onboarding.Slide2.Man" = "Man";
-"Onboarding.Slide2.Woman" = "Woman";
-"Onboarding.Slide3.Title" = "HOW OLD ARE YOU?";
-"Onboarding.Slide4.Title" = "WHAT ARE YOUR GOALS?";
-"Onboarding.Slide4.Cell1" = "Pass the exam";
-"Onboarding.Slide4.Cell2" = "Become a better nurse";
-"Onboarding.Slide4.Cell3" = "Extend my knowledge";
-"Onboarding.Slide4.Cell4" = "Resfresh the basics";
-"Onboarding.Slide4.Cell5" = "Try myself in a new field";
-"Onboarding.Slide5.Title" = "WHEN ARE YOU TAKING THE EXAM?";
-"Onboarding.Slide6.Title" = "DESCRIBE YOUR CURRENT LEVEL:";
-"Onboarding.Slide6.Cell1" = "Novice";
-"Onboarding.Slide6.Cell2" = "Intermediate";
-"Onboarding.Slide6.Cell3" = "Advanced";
-"Onboarding.Slide6.Cell4" = "Licensed nurse";
-"Onboarding.Slide6.Cell5" = "Expert";
-"Onboarding.Slide7.Title" = "HOW MUCH TIME CAN YOU SPEND ON A TEST?";
+"Onboarding.Slide1.Text1" = "NO PASES HORAS APRENDIENDO";
+"Onboarding.Slide1.Text2" = "Exámenes de práctica creados por expertos certificados para ayudarte a aprobar en el primer intento";
+"Onboarding.Slide1.Button" = "A por ello";
+"Onboarding.Slide2.Title" = "¿CUÁL ES TU GÉNERO?";
+"Onboarding.Slide2.Man" = "Hombre";
+"Onboarding.Slide2.Woman" = "Mujer";
+"Onboarding.Slide3.Title" = "¿QUÉ EDAD TIENES?";
+"Onboarding.Slide4.Title" = "¿CUÁLES SON TUS OBJETIVOS?";
+"Onboarding.Slide4.Cell1" = "Tomar el examen";
+"Onboarding.Slide4.Cell2" = "Ser un mejor conductor";
+"Onboarding.Slide4.Cell3" = "Ampliar mi conocimiento";
+"Onboarding.Slide4.Cell4" = "Refrescar los fundamentos";
+"Onboarding.Slide4.Cell5" = "Probar algo nuevo";
+"Onboarding.Slide5.Title" = "¿CUÁNDO TOMARÁS EL EXAMEN?";
+"Onboarding.Slide6.Title" = "DESCRIBE TU NIVEL ACTUAL:";
+"Onboarding.Slide6.Cell1" = "Novato";
+"Onboarding.Slide6.Cell2" = "Intermedio";
+"Onboarding.Slide6.Cell3" = "Avanzado";
+"Onboarding.Slide6.Cell4" = "Conductor con licencia";
+"Onboarding.Slide6.Cell5" = "Experto";
+"Onboarding.Slide7.Title" = "¿CUÁNTOS EXÁMENES QUIERES TOMAR A DIARIO?";
 "Onboarding.Slide7.Min" = "min";
-"Onboarding.Slide8.Title" = "HOW MANY TESTS WOULD YOU WANT TO TAKE DAILY?";
-"Onboarding.Slide9.Title" = "WHERE DO YOU NEED TO IMPROVE THE MOST?";
-"Onboarding.Slide9.Tag1" = "Adult-\nGerontology\nCare";
-"Onboarding.Slide9.Tag2" = "Surgery";
-"Onboarding.Slide9.Tag3" = "Pedi-\natrics";
-"Onboarding.Slide9.Tag4" = "Critical\ncare";
-"Onboarding.Slide9.Tag5" = "Diabetes\nCare";
-"Onboarding.Slide9.Tag6" = "Emergency\nprep";
-"Onboarding.Slide9.Tag7" = "Anesthetist\nprep";
-"Onboarding.Slide9.Tag8" = "Natal";
-"Onboarding.Slide10.Title" = "Do you agree with the statement?";
-"Onboarding.Slide10.Question" = "Older people should know more about nursing so it's easier for them to accept help";
-"Onboarding.Slide11.Title" = "Do you agree with the statement?";
-"Onboarding.Slide11.Question" = "I feel I have the right to change a patient's mind about their condition and treatment";
-"Onboarding.Slide12.Title" = "Do you agree with the statement?";
-"Onboarding.Slide12.Question" = "I believe a theory course represents only a tiny part of what I'll encounter in reality";
-"Onboarding.Slide13.Title" = "Do you agree with the statement?";
-"Onboarding.Slide13.Question" = "Relatives often make  emotional decisions regarding patients’ conditions";
-"Onboarding.Slide14.Title" = "PREPARING YOUR INDIVIDUAL STUDY PLAN";
-"Onboarding.Slide14.Preloader1" = "Analyzing your goals...";
-"Onboarding.Slide14.Preloader2" = "Analyzing your skill level...";
-"Onboarding.Slide14.Preloader3" = "Comparing your age and gender with community average...";
-"Onboarding.Slide14.Preloader4" = "Anazling your study preferences...";
-"Onboarding.Slide14.Preloader5" = "Analyzing areas to improve...";
-"Onboarding.Slide15.Title" = "YOUR PERSONAL 98% PASS RATE STUDY PLAN";
-"Onboarding.Slide15.Cell1" = "500+ tests";
-"Onboarding.Slide15.Cell2" = "10,000+ individual questions";
-"Onboarding.Slide15.Cell3" = "Over 10 courses";
-"Onboarding.Slide15.Cell4" = "Reminders & notifications ";
-"Onboarding.Slide15.Button" = "Let’s go!";
+"Onboarding.Slide8.Title" = "¿CUÁNTOS EXÁMENES QUIERES TOMAR A DIARIO?";
+"Onboarding.Slide9.Title" = "¿QUÉ ES LO QUE MÁS TIENES QUE MEJORAR?";
+"Onboarding.Slide9.Tag1" = "Controles de\nseguridad\ndel vehículo";
+"Onboarding.Slide9.Tag2" = "Señales";
+"Onboarding.Slide9.Tag3" = "Contro-\nles";
+"Onboarding.Slide9.Tag4" = "Roton-\ndas";
+"Onboarding.Slide9.Tag5" = "Señaliza-\nción";
+"Onboarding.Slide9.Tag6" = "Control de\nseguridad del\nvehículo";
+"Onboarding.Slide9.Tag7" = "Posiciona-\nmiento\nseguro en\ncarretera";
+"Onboarding.Slide9.Tag8" = "Uso de\nla velo-\ncidad";
+"Onboarding.Slide10.Title" = "¿Estás de acuerdo con la afirmación?";
+"Onboarding.Slide10.Question" = "La gente mayor tiene que tomar otro examen de conducir más adelante";
+"Onboarding.Slide11.Title" = "¿Estás de acuerdo con la afirmación?";
+"Onboarding.Slide11.Question" = "La edad mínima para conducir en España debería ser sustancialmente mayor";
+"Onboarding.Slide12.Title" = "¿Estás de acuerdo con la afirmación?";
+"Onboarding.Slide12.Question" = "Los conductores humanos deberían desaparecer en favor de los vehículos autónomos";
+"Onboarding.Slide13.Title" = "¿Estás de acuerdo con la afirmación?";
+"Onboarding.Slide13.Question" = "Los conductores humanos deberían desaparecer en favor de los vehículos autónomos";
+"Onboarding.Slide14.Title" = "PREPARANDO TU PLAN DE ESTUDIO INDIVIDUAL";
+"Onboarding.Slide14.Preloader1" = "Analizando tus objetivos...";
+"Onboarding.Slide14.Preloader2" = "Analizando su nivel de competencias...";
+"Onboarding.Slide14.Preloader3" = "Comparando tu edad y sexo con la media de la comunidad...";
+"Onboarding.Slide14.Preloader4" = "Analizando tus preferencias de estudio...";
+"Onboarding.Slide14.Preloader5" = "Analizando las áreas a mejorar...";
+"Onboarding.Slide15.Title" = "TU PLAN DE ESTUDIO CON UN 98% DE APROBADOS";
+"Onboarding.Slide15.Cell1" = "más de 4,500 tests";
+"Onboarding.Slide15.Cell2" = "+60,000 preguntas";
+"Onboarding.Slide15.Cell3" = "diferentes modalidades";
+"Onboarding.Slide15.Cell4" = "recordatorios y notificaciones";
+"Onboarding.Slide15.Button" = "¡Vamos!";
 
 // MARK: Courses
-"Courses.Title" = "Which exam are you studying for?";
-"Courses.Button" = "Select";
+"Courses.Title" = "¿Qué necesitas mejorar?";
+"Courses.Button" = "Seleccionar";
 
 // MARK: Study
-"Study.Title" = "Study";
-"Study.Day.One" = "day";
-"Study.Day.Two" = "days";
-"Study.Day.Many" = "days";
-"Study.Streak" = "streak";
-"Study.TakeTest" = "Take a test";
-"Study.TakeFreeTest" = "Take a free test";
-"Study.UnlockQuestions" = "Unlock all questions";
-"Study.QuizModes" = "Quiz Modes";
-"Study.Mode.TodaysQuestion" = "Today’s\nQuestion";
-"Study.Mode.TenQuestions" = "10 Questions\nQuick Quiz";
-"Study.Mode.MissedQuestions" = "Missed\nQuestions Quiz";
-"Study.Mode.RandomSet" = "Random\nSet Quiz";
+"Study.Title" = "Estudio";
+"Study.Day.One" = "día";
+"Study.Day.Two" = "días";
+"Study.Day.Many" = "días";
+"Study.Streak" = " racha";
+"Study.TakeTest" = "Tomar una prueba";
+"Study.TakeFreeTest" = "Haz una prueba gratis";
+"Study.UnlockQuestions" = "Desbloquea todas las preguntas";
+"Study.QuizModes" = "Modos de prueba";
+"Study.Mode.TodaysQuestion" = "Pregunta\nde hoy";
+"Study.Mode.TenQuestions" = "Prueba rápida\nde 10 preguntas";
+"Study.Mode.MissedQuestions" = "Preguntas\nincorrectas";
+"Study.Mode.RandomSet" = "Prueba de con-\njunto aleatorio";
 
 // MARK: Settings
-"Settings.Title" = "Settings";
-"Settings.Unlock" = "Unlock";
+"Settings.Title" = "Ajustes";
+"Settings.Unlock" = "Desbloquear";
 "Settings.Premium" = "PREMIUM";
 "Settings.SelectedExam" = "Selected Exam";
-"Settings.RateUs" = "Rate us";
-"Settings.ContactUs" = "Contact us";
-"Settings.TermsOfUse" = "Terms of use";
-"Settings.PrivacyPolicy" = "Privacy Policy";
+"Settings.RateUs" = "Nos califica";
+"Settings.ContactUs" = "Contacta con nosotros";
+"Settings.TermsOfUse" = "Condiciones de uso";
+"Settings.PrivacyPolicy" = "Política de privacidad";
 
 // MARK: Stats
-"Stats.PassRate.Title" = " Current pass rate";
-"Stats.MainRate.TestsTake" = "Tests taken";
-"Stats.MainRate.CorrectAnswers" = "Correct answers";
-"Stats.MainRate.QuestionsTaken" = "Questions taken";
-"Stats.MainRate.LongestStreak" = "Longest streak";
-"Stats.MainRate.AnsweredQuestions" = "Answered questions";
-"Stats.Title" = "Stats";
-"Stats.Day.One" = "day";
-"Stats.Day.Two" = "days";
-"Stats.Day.Many" = "days";
+"Stats.PassRate.Title" = "Tasa de aprobación";
+"Stats.MainRate.TestsTake" = "Pruebas realizadas";
+"Stats.MainRate.CorrectAnswers" = "Respuestas correctas";
+"Stats.MainRate.QuestionsTaken" = "Preguntas";
+"Stats.MainRate.LongestStreak" = "Racha más larga";
+"Stats.MainRate.AnsweredQuestions" = "Preguntas respondidas";
+"Stats.Title" = "Estadisticas";
+"Stats.Day.One" = "día";
+"Stats.Day.Two" = "días";
+"Stats.Day.Many" = "días";
 
 // MARK: Paygate
-"Paygate.Main.Title" = "KNOW THE QUESTIONS\nBEFOREHAND";
-"Paygate.Main.Cell1" = "Don’t spend hours learning";
-"Paygate.Main.Cell2" = "Train yourself with 5000+ questions";
-"Paygate.Main.Cell3" = "98% pass rate on the first attempt!";
-"Paygate.Main.Info" = "Secured with iTunes. Cancel anytime.";
-"Paygate.Main.TermsOfUse" = "Terms of use";
-"Paygate.Main.And" = " and ";
-"Paygate.Main.PrivacyPolicy" = "Privacy Policy";
-"Paygate.Main.RestorePurchases" = "Restore purchases";
+"Paygate.Main.Title" = "CONOCE LAS PREGUNTAS\nDE ANTEMANO";
+"Paygate.Main.Cell1" = "No pases horas aprendiendo";
+"Paygate.Main.Cell2" = "Practica con más de 15.000 preguntas";
+"Paygate.Main.Cell3" = "¡Tasa de 98% de aprobados!";
+"Paygate.Main.Info" = "Asegurado por iTunes. Cancela cuando quieras.";
+"Paygate.Main.TermsOfUse" = "Condiciones de uso";
+"Paygate.Main.And" = " y ";
+"Paygate.Main.PrivacyPolicy" = "Política de privacidad";
+"Paygate.Main.RestorePurchases" = "Restaurar las compras";
 "Paygate.Purchase.Failed" = "Failed to make purchase";
 "Paygate.Continue" = "Continue →";
 
 // MARK: Question
-"Question.Explanation" = "Explanation";
-"Question.Continue" = "Continue";
-"Question.Submit" = "Submit test";
-"Question.BackToStudying" = "Back to studying";
+"Question.Explanation" = "Explicación";
+"Question.Continue" = "Continuar";
+"Question.Submit" = "Enviar prueba";
+"Question.BackToStudying" = "Volver a estudiar";
 "Question.QuestionProgress" = "Question %u/%u";
 
 // MARK: Test Stats
 "TestStats.Title" = "";
-"TestStats.TestTime" = "Your time";
-"TestStats.CommunityAverage" = "Community average";
-"TestStats.AverageScore" = "Average score";
-"TestStats.Filter.Title" = "Questions";
-"TestStats.Filter.Incorrect" = "Incorrect";
-"TestStats.Filter.Correct" = "Correct";
-"TestStats.Filter.All" = "All";
-"TestStats.QuestionsStats" = "%u correct\n%u incorrect";
+"TestStats.TestTime" = "Su tiempo";
+"TestStats.CommunityAverage" = "Promedio de la comunidad";
+"TestStats.AverageScore" = "Puntuación media";
+"TestStats.Filter.Title" = "Preguntas";
+"TestStats.Filter.Incorrect" = "Incorrectas";
+"TestStats.Filter.Correct" = " Correctas";
+"TestStats.Filter.All" = "Todo";
+"TestStats.QuestionsStats" = "%u correctas\n%u incorrectas";

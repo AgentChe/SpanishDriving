@@ -42,7 +42,7 @@ extension CourseCollectionCell {
                             .textAlignment(.center))
 
         container.layer.borderWidth = element.isSelected ? 4.scale : 0
-        container.layer.borderColor = element.isSelected ? UIColor(integralRed: 95, green: 70, blue: 245).cgColor : UIColor.clear.cgColor
+        container.layer.borderColor = element.isSelected ? UIColor(integralRed: 255, green: 115, blue: 99).cgColor : UIColor(integralRed: 83, green: 83, blue: 83).cgColor
     }
 }
 
